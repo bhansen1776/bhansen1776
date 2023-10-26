@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @bhansen1776
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+bhansen1776/bhansen1776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
+
+asd;lfjas;ldfkja;slkdfj;laskjdf;lasjdf;lasjdf;lkasjf;ljkasdfjkl
+--->
